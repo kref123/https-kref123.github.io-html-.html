@@ -1,0 +1,159 @@
+.미식이{
+  margin: 20px;
+   width:160px;
+   height:120px;
+}
+.bu{
+  margin: none;
+  border: none;
+  padding: none;
+  width: 40px; height: 40px;
+}
+.sclg{
+
+text-align: center;
+width: 55px;
+height: 55px;
+
+}
+
+}
+.sc{
+  text-align: center;
+  }
+  body{
+    margin:0px;
+    padding:0px;
+  }
+  .back{
+    background-image: url(back1.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    height: 200px;
+  }
+  a{ text-decoration: none;
+color: rgba(255, 255, 255);
+font-weight: bold;
+background-color:
+  }
+
+.mylog{
+text-align: right;
+background-color: white;
+padding-top: 20px;
+}
+.nav>ul{
+  list-style: none;
+  margin-top: 10px;
+ text-align: right;
+ display: inline-block;
+ margin-right: 20px;
+ font-size: 20px;
+}
+.nav>ul>li{
+  display: inline-block;
+}
+.nav{
+  text-align: right;
+}
+.logo{
+  display: inline-block;
+  float: left;
+  font-size: 30px;
+  margin: 30px;
+}
+.list1{
+  list-style: none;
+text-align: left;
+margin:0px 0px 0px 0px;
+height: 650px;
+opacity: :1;
+padding: 0px;
+}
+    .li1h{
+    position: absolute;
+    top:15px;
+    color: white;
+    font-size: 26px;
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+      .li1h>a{
+      width:180px;
+      height: 180px;
+      position: absolute;
+
+}
+
+.li2h{
+font-size: 30px;
+color: white;
+font-weight: bold;
+position:absolute;
+top:230px;
+margin:20px 0px 0px 25px;
+opacity: :1;
+padding: 0px;
+}
+.li2h>a{
+position: absolute;
+  width:180px;
+  height: 180px;
+}
+
+.list2{
+list-style: none;
+margin:0px 60px 0px 30px;
+height: 450px;
+
+padding: 0px;
+}
+.li3h{
+  top:5px;
+position:absolute;
+margin: 25px 0px 0px 20px;
+opacity: 1;
+padding: 0px;
+font-size: 25px;
+color:white;
+font-weight: bold;
+}
+.li3h>a{
+  position: absolute;
+  width: 180px;
+  height: 180px;
+}
+.li4h{
+  top:240px;
+  position: absolute;
+  margin: 10px 0px 0px 4px;
+  font-size: 24px;
+color: white;
+font-weight: bold;
+}
+.li4h>a{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.food>ul{
+  display: inline-block;
+  margin-left: 40px;
+  margin-top: 50px;
+  transform: translate3d(0px,0px,0px);
+}
+
+.part1{
+}
